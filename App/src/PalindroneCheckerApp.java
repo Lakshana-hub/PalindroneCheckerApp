@@ -1,27 +1,54 @@
 /**
  * ==============================================================================================
- * MAIN CLASS -UseCase1PalindroneApp
+ * MAIN CLASS -UseCase4PalindroneCheckerApp
  * ==============================================================================================
  *
- * USE Case 1: Application entry & Welcome Message
+ * USE Case 4: Character Array Based Validation
  *
  * Description:
- * This class represents the entry point of the Palindrone Checker Management System.
+ *This class validates a palindrome by converting
+ * the string into a character array and comparing
+ * characters using the two-pointer technique.
  *
  * At this stage,the application :
- * -starts execution from the main () method
- * -display a welcome message
- * -show application version
+ * -converts string to char array
+ *  -uses start and end pointers
+ * -compares characters efficiently
+ * -display the result
  *
- * No PALINDROME LOGIC IS IMPLEMENTED YET.
- *
- * THE GOAL IS TO ESTABLISH A CLEAR STARTUP FLOW.
+ *This reduces extra memory usage.
  *
  * @author Developer
  * @version 1.0
  */
 public class PalindroneCheckerApp {
     public static void main(String[] args) {
+ UC4-CharacterArrayBasedPalindromeCheck
+        // Hardcoded string
+        String original = "radar";
+
+        // Convert string to character array
+        char[] characters = original.toCharArray();
+
+        // Two-pointer technique
+        int start = 0;
+        int end = characters.length - 1;
+
+        boolean isPalindrome = true;
+
+        while (start < end) {
+
+            if (characters[start] != characters[end]) {
+                isPalindrome = false;
+                break;
+            }
+
+            start++;
+            end--;
+        }
+
+        if (isPalindrome) {
+=======
  UC3-PalindromeCheckUsingString
         // Original string (Hardcoded)
         String original = "level";
@@ -36,14 +63,18 @@ public class PalindroneCheckerApp {
 
         // Compare original and reversed using equals()
         if (original.equals(reversed)) {
+ main
             System.out.println(original + " is a Palindrome.");
         } else {
             System.out.println(original + " is NOT a Palindrome.");
         }
+ UC4-CharacterArrayBasedPalindromeCheck
+=======
 =======
         System.out.println("Welcome to Palindrome Checker App Managment System.");
         System.out.println("Version : 1.0");
         System.out.println("System initialized successfully.");
+ main
  main
     }
 }
