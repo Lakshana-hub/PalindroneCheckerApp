@@ -4,11 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+ UC4-CharacterArrayBasedPalindromeCheck
     <list default="true" id="bd9e09b6-bac4-41ae-8e21-34055de98b04" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/App/src/PalindroneCheckerApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/App/src/PalindroneCheckerApp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
+=======
+    <list default="true" id="bd9e09b6-bac4-41ae-8e21-34055de98b04" name="Changes" comment="" />
+ main
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,9 +28,15 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+ UC4-CharacterArrayBasedPalindromeCheck
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
+=======
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+ main
   <component name="ProjectId" id="3A8zRosaCdyniCEbfcJNyoV9qIF" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -40,7 +50,11 @@
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+ UC4-CharacterArrayBasedPalindromeCheck
     "git-widget-placeholder": "UC4-CharacterArrayBasedPalindromeCheck",
+=======
+    "git-widget-placeholder": "UC2-HardCodePalidrome",
+ main
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/Admin/Documents/RA2411026010055/PalindroneCheckerApp",
@@ -60,6 +74,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+ UC4-CharacterArrayBasedPalindromeCheck
     <configuration default="true" type="JetRunConfigurationType">
       <module name="App" />
       <method v="2">
@@ -71,6 +86,8 @@
       <option name="filePath" />
       <method v="2" />
     </configuration>
+=======
+ main
     <recent_temporary>
       <list>
         <item itemvalue="Application.PalindroneCheckerApp" />

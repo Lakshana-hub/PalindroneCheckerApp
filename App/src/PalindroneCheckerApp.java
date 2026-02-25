@@ -23,6 +23,7 @@
  */
 public class PalindroneCheckerApp {
     public static void main(String[] args) {
+ UC4-CharacterArrayBasedPalindromeCheck
         // Hardcoded string
         String original = "radar";
 
@@ -47,9 +48,33 @@ public class PalindroneCheckerApp {
         }
 
         if (isPalindrome) {
+=======
+ UC3-PalindromeCheckUsingString
+        // Original string (Hardcoded)
+        String original = "level";
+
+        // Empty string to store reversed value
+        String reversed = "";
+
+        // Reverse string using for loop
+        for (int i = original.length() - 1; i >= 0; i--) {
+            reversed = reversed + original.charAt(i);
+        }
+
+        // Compare original and reversed using equals()
+        if (original.equals(reversed)) {
+ main
             System.out.println(original + " is a Palindrome.");
         } else {
             System.out.println(original + " is NOT a Palindrome.");
         }
+ UC4-CharacterArrayBasedPalindromeCheck
+=======
+=======
+        System.out.println("Welcome to Palindrome Checker App Managment System.");
+        System.out.println("Version : 1.0");
+        System.out.println("System initialized successfully.");
+ main
+ main
     }
 }
