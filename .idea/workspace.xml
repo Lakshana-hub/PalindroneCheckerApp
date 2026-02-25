@@ -4,15 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
- UC4-CharacterArrayBasedPalindromeCheck
-    <list default="true" id="bd9e09b6-bac4-41ae-8e21-34055de98b04" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="10c3c07f-6d63-4dc6-8a8a-3d3631f38355" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/App/src/PalindroneCheckerApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/App/src/PalindroneCheckerApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
-=======
-    <list default="true" id="bd9e09b6-bac4-41ae-8e21-34055de98b04" name="Changes" comment="" />
- main
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,15 +23,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
- UC4-CharacterArrayBasedPalindromeCheck
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
-=======
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
- main
   <component name="ProjectId" id="3A8zRosaCdyniCEbfcJNyoV9qIF" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -44,26 +33,8 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Application.PalindroneCheckerApp.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
- UC4-CharacterArrayBasedPalindromeCheck
-    "git-widget-placeholder": "UC4-CharacterArrayBasedPalindromeCheck",
-=======
-    "git-widget-placeholder": "UC2-HardCodePalidrome",
- main
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Admin/Documents/RA2411026010055/PalindroneCheckerApp",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+    "git-widget-placeholder": "UC5-StackBasedPalindromeChecker",
+    "node.js.selected.package.tslint": "(autodetect)"
   }
 }]]></component>
   <component name="RunManager">
@@ -74,7 +45,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
- UC4-CharacterArrayBasedPalindromeCheck
     <configuration default="true" type="JetRunConfigurationType">
       <module name="App" />
       <method v="2">
@@ -86,21 +56,11 @@
       <option name="filePath" />
       <method v="2" />
     </configuration>
-=======
- main
     <recent_temporary>
       <list>
         <item itemvalue="Application.PalindroneCheckerApp" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="SharedIndexes">
-    <attachedChunks>
-      <set>
-        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.31033.145" />
-        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.31033.145" />
-      </set>
-    </attachedChunks>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
